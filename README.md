@@ -1,4 +1,9 @@
-# vuescreencast
+# Be a programmer - MVP :rocket:
+
+
+```
+Note: you need to setup your own backend server to run this project
+```
 
 ## Build Setup
 
